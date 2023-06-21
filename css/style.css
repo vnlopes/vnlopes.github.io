@@ -103,7 +103,6 @@ article{
 }
 
 .home:hover {
-  padding-right: 100px;
   color: #0066ff;
   transition: 0.2s;
 }
